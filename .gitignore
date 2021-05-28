@@ -27,3 +27,12 @@ Cover Art.png
 
 # pycache files
 *.pyc
+
+*.exe
+*.png
+
+# Directories
+ROMS/
+ROMS/Testing
+/Rom Base/Tools Pack/
+/Rom Base/Sprite Package/
